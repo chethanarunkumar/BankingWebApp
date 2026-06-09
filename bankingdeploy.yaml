@@ -17,6 +17,7 @@ spec:
       containers:
       - name: banking-app-container
         image: chethanharsha/bankingwebapp
+        imagePullPolicy: Always
         ports:
         - containerPort: 8082
 ---
