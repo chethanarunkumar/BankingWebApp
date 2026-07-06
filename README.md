@@ -291,25 +291,9 @@ Through this project, I gained practical experience in:
 - Jenkins CI/CD Automation
 - Kubernetes Deployment
 - Git & GitHub Version Control
-- DevOps Best Practices
+
 
 ---
-
-# 🚀 Future Enhancements
-
-- Spring Security Authentication
-- JWT-Based Authorization
-- MySQL Database Integration
-- Role-Based Access Control (RBAC)
-- Swagger/OpenAPI Documentation
-- Prometheus Monitoring
-- Grafana Dashboards
-- SonarQube Code Quality Analysis
-- Helm Charts
-- Terraform Infrastructure Automation
-
----
-
 # 👨‍💻 Author
 
 **Chethan B A**
