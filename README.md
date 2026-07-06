@@ -98,7 +98,7 @@ Before running this project, ensure you have installed:
 - Git
 - Docker
 - Jenkins
-- Kubernetes (Minikube or any Kubernetes Cluster)
+- Kubernetes 
 
 ---
 
